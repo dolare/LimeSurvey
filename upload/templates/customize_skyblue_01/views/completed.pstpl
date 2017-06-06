@@ -1,0 +1,18 @@
+<br />
+<table class="completed-table">
+    <tr>
+        <td class="completed-text">
+            <br />
+            {COMPLETED}
+            <br />
+            <br />
+            {URL}
+            <br /><br />
+        </td>
+    </tr>
+</table>
+<br />
+<script>
+    $('.completed-text a').attr('target', '_Blank');
+    $('.completed-text a').css('color', '#2c3e50');
+</script>
