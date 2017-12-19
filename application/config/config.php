@@ -24,7 +24,7 @@
 return array(
 	'components' => array(
 		'db' => array(
-			'connectionString' => 'mysql:host=rm-wz90xy6u62b253832.mysql.rds.aliyuncs.com;port=3306;dbname=survey;',
+			'connectionString' => 'mysql:host=rm-wz90xy6u62b253832co.mysql.rds.aliyuncs.com;port=3306;dbname=survey;',
 			'emulatePrepare' => true,
 			'username' => 'survey_root',
 			'password' => 'Timesmind!!!',
